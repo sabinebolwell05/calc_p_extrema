@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local configuration
+config_local.py
+.env
+
+# Large astronomy data
+data/
+
+# Generated figures
+figures/
+
+# macOS
+.DS_Store
